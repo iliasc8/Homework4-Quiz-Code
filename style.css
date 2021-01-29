@@ -1,0 +1,66 @@
+body {
+    background-color: #cccccc; 
+}
+
+
+#instructions {
+    font-size: large;
+    
+}
+
+
+#start {
+    background-color: #0072bb;
+    font-size: large;
+    padding-right: 20px;
+    border:solid;
+}
+
+
+nav {
+    font-size: large;
+    text-indent: 120px;
+}
+
+
+#questions {
+    font-family:cursive;
+}
+
+       
+.choice {
+    background-color:turquoise;
+    border:solid;
+}
+
+
+#submit {
+    background-color: #0072bb;
+    font-size: medium;
+    padding-right: 20px;
+    border: solid; 
+}
+
+
+#highscores {
+    background-color:darkkhaki;
+    padding-bottom: 50px;
+    width: 200px;
+    font-weight: bold;  
+    border:solid;
+}
+
+
+#showselection {
+    background-color:greenyellow;
+    width: 60px;
+    border:solid;
+    margin-top:5mm;
+}
+
+
+#back, #clear {
+    background-color:darksalmon;
+    border:solid;
+    font-weight: bold;  
+}
